@@ -1,0 +1,35 @@
+nav{
+    margin: 10px;
+}
+h1{
+    text-align: center;    
+}
+.row {
+   
+    
+}
+.col-sm-3, .col-sm-9{
+   
+}
+.card-group{
+    padding: 5px;
+    margin: 10px;
+}
+.card{
+    margin: 25px;
+}
+.card-img-top{
+    width: 70%;
+    height: auto;
+    position: relative;
+    margin:  0;
+    padding-left: 25%;
+    padding-top: 10%;
+}
+.card-title, .card-text{
+    text-align: center;
+}
+a{
+    text-decoration: none;    
+   
+}
